@@ -20,3 +20,24 @@ ECG is a concensus clustering algorithm for vertex partitioning, based on the fa
 * Codeocean: https://codeocean.com/capsule/3898939/tree/v1
 * NVIDIA cuGraph: https://docs.rapids.ai/api/cugraph/stable/api.html#module-cugraph.community.ecg
 
+## Graph-aware measure for comparing graph partitions
+
+* Pre-print: https://arxiv.org/abs/1806.11494
+
+### Code:
+
+* GitHub: https://github.com/ftheberge/graph-partition-and-measures (all measures)
+* codeocean: https://codeocean.com/capsule/0712485/tree/v1 (Adjusted graph-aware Rand Index)
+
+
+## Framework for comparing graph embeddings
+
+* Pre-print: https://arxiv.org/abs/1906.04562
+
+## ABCD graphs -- Artificial Benchmark for Community Detection
+
+* Pre-print: https://arxiv.org/abs/2002.00843
+
+## Hypergraph modularity and clustering
+
+* Pre-print: https://arxiv.org/abs/1810.04816
