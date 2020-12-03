@@ -67,5 +67,7 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2018) Pre-print: https://arxiv.org/abs/1810.04816
 
+* (2019) Bogumił Kamiński, Valérie Poulin, Paweł Prałat , Przemysław Szufel, François Théberge, "Clustering via hypergraph modularity", PLOS ONE, November 6, 2019, https://doi.org/10.1371/journal.pone.0224307
+
 * (2021) B. Kaminski, P. Pralat and F. Théberge, "Community Detection Algorithm Using Hypergraph Modularity", to appear in the proceedings of Complex Networks 2020, Springer-Verlag.
 
