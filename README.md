@@ -42,7 +42,7 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2020) Kamiński B., Prałat P., Théberge F. (2020) A Scalable Unsupervised Framework for Comparing Graph Embeddings. In: Kamiński B., Prałat P., Szufel P. (eds) Algorithms and Models for the Web Graph. WAW 2020. Lecture Notes in Computer Science, vol 12091. Springer, Cham. https://doi.org/10.1007/978-3-030-48478-1_4
 
-* (2020) SIAM Network Science Conference poster: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_31.pdf
+* (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_31.pdf
 
 ### Code:
 
@@ -55,13 +55,13 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2020) Pre-print: https://arxiv.org/abs/2002.00843
 
-* (2020) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020.
+* (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_33.pdf
 
-* (2020) SIAM Network Science Conference poster: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_33.pdf
+* (2021) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020.
 
 # Hypergraph modularity and clustering
 
 * (2018) Pre-print: https://arxiv.org/abs/1810.04816
 
-* (2020) B. Kaminski, P. Pralat and F. Théberge, "Community Detection Algorithm Using Hypergraph Modularity", to appear in the proceedings of Complex Networks 2020, Springer-Verlag.
+* (2021) B. Kaminski, P. Pralat and F. Théberge, "Community Detection Algorithm Using Hypergraph Modularity", to appear in the proceedings of Complex Networks 2020, Springer-Verlag.
 
