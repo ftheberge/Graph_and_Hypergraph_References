@@ -46,8 +46,8 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 ### Code:
 
-* Initial version: https://github.com/ftheberge/Comparing_Graph_Embeddings
-* Scalable Landmark-based version: https://github.com/KrainskiL/CGE.jl
+* Initial version in C: https://github.com/ftheberge/Comparing_Graph_Embeddings
+* Scalable Julia Landmark-based version: https://github.com/KrainskiL/CGE.jl
 
 # ABCD graphs -- Artificial Benchmark for Community Detection
 
@@ -58,6 +58,10 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 * (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_33.pdf
 
 * (2021) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020.
+
+### Code:
+
+* Julia code on GitHub: https://github.com/bkamins/ABCDGraphGenerator.jl
 
 # Hypergraph modularity and clustering
 
