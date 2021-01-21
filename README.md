@@ -44,6 +44,7 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_31.pdf
 
+* (2021) JMM 2021 talks and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3486 and https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3674
 
 ### Code:
 
@@ -62,6 +63,8 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2021) B. Kaminski, P. Pralat and F. Théberge, "Artificial Benchmark for Community Detection (ABCD) - Fast random graph model with community structure", Network Science Journal (2021), pp. 1-26, doi:10.1017/nws.2020.45 
 
+* (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3486
+
 ### Code:
 
 * Julia code on GitHub: https://github.com/bkamins/ABCDGraphGenerator.jl
@@ -74,5 +77,5 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2021) Kamiński B., Prałat P., Théberge F. (2021) Community Detection Algorithm Using Hypergraph Modularity. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications IX. COMPLEX NETWORKS 2020 2020. Studies in Computational Intelligence, vol 943. Springer, Cham. https://doi.org/10.1007/978-3-030-65347-7_13 Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162304
 
-
+* (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3482
 
