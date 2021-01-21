@@ -44,6 +44,7 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_31.pdf
 
+
 ### Code:
 
 * Initial version in C: https://github.com/ftheberge/Comparing_Graph_Embeddings
@@ -57,7 +58,9 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_33.pdf
 
-* (2021) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020.
+* (2021) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020. Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162237
+
+* (2021) B. Kaminski, P. Pralat and F. Théberge, "Artificial Benchmark for Community Detection (ABCD) - Fast random graph model with community structure", Network Science Journal (2021), pp. 1-26, doi:10.1017/nws.2020.45 
 
 ### Code:
 
@@ -69,5 +72,7 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 * (2019) Bogumił Kamiński, Valérie Poulin, Paweł Prałat , Przemysław Szufel, François Théberge, "Clustering via hypergraph modularity", PLOS ONE, November 6, 2019, https://doi.org/10.1371/journal.pone.0224307
 
-* (2021) B. Kaminski, P. Pralat and F. Théberge, "Community Detection Algorithm Using Hypergraph Modularity", to appear in the proceedings of Complex Networks 2020, Springer-Verlag.
+* (2021) Kamiński B., Prałat P., Théberge F. (2021) Community Detection Algorithm Using Hypergraph Modularity. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications IX. COMPLEX NETWORKS 2020 2020. Studies in Computational Intelligence, vol 943. Springer, Cham. https://doi.org/10.1007/978-3-030-65347-7_13 Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162304
+
+
 
