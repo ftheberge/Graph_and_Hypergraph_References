@@ -51,15 +51,13 @@ Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Publ
 
 # ABCD graphs -- Artificial Benchmark for Community Detection
 
-* (2020) B. Kaminski, P. Pralat and F. Théberge, "Artificial Benchmark for Community Detection (ABCD) --- Fast Random Graph Model with Community Structure", to appear in Network Science Journal.
-
 * (2020) Pre-print: https://arxiv.org/abs/2002.00843
 
 * (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_33.pdf
 
 * (2021) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020. Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162237
 
-* (2021) B. Kaminski, P. Pralat and F. Théberge, "Artificial Benchmark for Community Detection (ABCD) - Fast random graph model with community structure", Network Science Journal (2021), pp. 1-26, doi:10.1017/nws.2020.45 
+* (2021) B. Kaminski, P. Pralat and F. Théberge, "Artificial Benchmark for Community Detection (ABCD) - Fast random graph model with community structure", Network Science Journal (2021), pp. 1-26, https://doi.org/10.1017/nws.2020.45
 
 * (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3486
 
