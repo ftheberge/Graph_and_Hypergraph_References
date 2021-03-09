@@ -34,7 +34,7 @@ ECG is a concensus clustering algorithm for vertex partitioning, based on the fa
 # Framework for comparing graph embeddings
 
 * (2019) B. Kaminski, P. Pralat and F. Théberge, An unsupervised framework for comparing graph embeddings,
-Journal of Complex Networks, cnz043, https://doi.org/10.1093/comnet/cnz043, Published: 28 November 2019.
+Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/10.1093/comnet/cnz043, Published: 28 November 2019.
 
 * (2019) Pre-print: https://arxiv.org/abs/1906.04562
 
