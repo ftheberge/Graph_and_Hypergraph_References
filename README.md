@@ -25,7 +25,7 @@ ECG is a concensus clustering algorithm for vertex partitioning, based on the fa
 
 # Graph-aware measure for comparing graph partitions
 
-* (2020) V. Poulin and F. Theberge, "Comparing Graph Clusterings: Set partition measures vs. Graph-aware measures," in IEEE Transactions on Pattern Analysis and Machine Intelligence, https://doi.org/10.1109/TPAMI.2020.3009862 and https://ieeexplore.ieee.org/document/9142444
+* (2021) V. Poulin and F. Theberge, "Comparing Graph Clusterings: Set partition measures vs. Graph-aware measures," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.43(6). https://doi.org/10.1109/TPAMI.2020.3009862 and https://ieeexplore.ieee.org/document/9142444
 
 * (2018) Pre-print: https://arxiv.org/abs/1806.11494
 
