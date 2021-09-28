@@ -2,6 +2,8 @@
 
 Upcoming; see: https://www.ryerson.ca/mining-complex-networks and https://github.com/ftheberge/GraphMiningNotebooks
 
+Slides for 3-hour short course from this book: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
+
 # Ensemble Clustering for Graphs (ECG)
 
 ECG is a concensus clustering algorithm for vertex partitioning, based on the famous Louvain algorithm. Several studies show that is is less affected by the resolution limit, and that it yields good, stable communities.
