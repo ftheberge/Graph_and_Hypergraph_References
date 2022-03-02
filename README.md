@@ -76,6 +76,8 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 ### Code:
 
 * Julia code on GitHub: https://github.com/bkamins/ABCDGraphGenerator.jl
+* Multithreaded code ABCDe: https://github.com/tolcz/ABCDeGraphGenerator.jl
+* Notebooks to test the speed and properties of ABCD, ABCDe and LFR: https://github.com/bartoszpankratz/ABCDe_Experiments
 
 # Hypergraph modularity and clustering
 
