@@ -1,16 +1,18 @@
 # Textbook - Mining Complex Networks
 
-Upcoming; see: https://www.ryerson.ca/mining-complex-networks and https://github.com/ftheberge/GraphMiningNotebooks
+Published early 2022, see: https://www.torontomu.ca/mining-complex-networks/ and https://github.com/ftheberge/GraphMiningNotebooks
 
 Slides for 3-hour short course from this book: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
 
 # Mini-course
 
-FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790
+FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790 slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
+
+CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/ (slides available on demand)
 
 # Ensemble Clustering for Graphs (ECG)
 
-ECG is a concensus clustering algorithm for vertex partitioning, based on the famous Louvain algorithm. Several studies show that is is less affected by the resolution limit, and that it yields good, stable communities.
+ECG is a consensus clustering algorithm for vertex partitioning, based on the famous Louvain algorithm. Several studies show that is is less affected by the resolution limit, and that it yields good, stable communities.
 
 
 * (2019) Valérie Poulin and François Théberge, Ensemble Clustering for Graphs. in: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. Studies in Computational Intelligence, vol 812. Springer (2019), https://doi.org/10.1007/978-3-030-05411-3_19 or https://link.springer.com/chapter/10.1007/978-3-030-05411-3_19 
@@ -55,7 +57,7 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 * (2021) JMM 2021 talks and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3486 and https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3674
 
-* (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, pre-print, https://arxiv.org/abs/2102.08275
+* (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, pre-print, https://arxiv.org/abs/2102.08275 and to appear, Journal of Complex Networks, Oxford University Press (2022).
 
 
 ### Code:
@@ -92,4 +94,20 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 * (2021) Kamiński B., Prałat P., Théberge F. (2021) Community Detection Algorithm Using Hypergraph Modularity. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications IX. COMPLEX NETWORKS 2020 2020. Studies in Computational Intelligence, vol 943. Springer, Cham. https://doi.org/10.1007/978-3-030-65347-7_13 Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162304
 
 * (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3482
+
+### Code:
+
+* H-modularity https://pnnl.github.io/HyperNetX/build/modularity.html is now part of HyperNetX: https://github.com/pnnl/HyperNetX
+
+# AGC - Area under Gain Curves
+
+A useful tool to compare binary classifiers's top scoring points.
+
+### Code:
+
+* PyPI: https://pypi.org/project/agc/
+* GitHub (including example notebook): https://github.com/ftheberge/agc
+
+
+
 
