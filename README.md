@@ -59,13 +59,14 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 * (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, pre-print, https://arxiv.org/abs/2102.08275 and to appear, Journal of Complex Networks, Oxford University Press (2022).
 
+* (2022) Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge A Multi-purposed Unsupervised Framework for Comparing Embeddings of Undirected and Directed Graphs, pre-print: https://arxiv.org/abs/2112.00075 and to appear in Network Science. 
 
 ### Code:
 
 * Initial version in C: https://github.com/ftheberge/Comparing_Graph_Embeddings
 * Scalable Julia Landmark-based version: https://github.com/KrainskiL/CGE.jl
 
-# ABCD graphs -- Artificial Benchmark for Community Detection
+# Artificial Benchmark for Community Detection (ABCD graphs)
 
 * (2020) Pre-print: https://arxiv.org/abs/2002.00843
 
@@ -79,7 +80,9 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 * (2021) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, "Artificial Benchmark for Community Detection algorithm for simulation of social networks", Social Simulation Conference 2021, https://ssc2021.uek.krakow.pl/wp-content/uploads/2021/09/SSC_book_of_abstracts.pdf
 
-* (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
+* (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
+
+* (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers: http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
 
 ### Code:
 
