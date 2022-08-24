@@ -68,7 +68,8 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 # Artificial Benchmark for Community Detection (ABCD graphs)
 
-* (2020) Pre-print: https://arxiv.org/abs/2002.00843
+* (2020) B. Kaminski, P. Pralat and F. Théberge, Artificial Benchmark for Community Detection (ABCD): Fast Random Graph Model with Community Structure, 
+pre-print: https://arxiv.org/abs/2002.00843
 
 * (2020) SIAM Network Science Conference: https://ns20.cs.cornell.edu/abstracts/SIAMNS_2020_paper_33.pdf
 
@@ -80,9 +81,14 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 * (2021) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, "Artificial Benchmark for Community Detection algorithm for simulation of social networks", Social Simulation Conference 2021, https://ssc2021.uek.krakow.pl/wp-content/uploads/2021/09/SSC_book_of_abstracts.pdf
 
+* (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.01480
+
+* (2022) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, Properties and Performance of the ABCDe Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.14899
+
 * (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
 
 * (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers: http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
+
 
 ### Code:
 
