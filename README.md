@@ -57,7 +57,7 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 * (2021) JMM 2021 talks and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3486 and https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3674
 
-* (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, pre-print, https://arxiv.org/abs/2102.08275 and to appear, Journal of Complex Networks, Oxford University Press (2022).
+* (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, Journal of Complex Networks, Volume 10, Issue 4, August 2022, cnac030, https://doi.org/10.1093/comnet/cnac030. pre-print: https://arxiv.org/abs/2102.08275
 
 * (2022) Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge A Multi-purposed Unsupervised Framework for Comparing Embeddings of Undirected and Directed Graphs, pre-print: https://arxiv.org/abs/2112.00075 and to appear in Network Science. 
 
@@ -73,7 +73,7 @@ We have developed a family of benchmark graphs with a few properties in mind:
 * similarity to well-known models like LFR
 * simplicity, so theoretical analysis is possible
 
-## Base ABCD graph benchmark
+### Base ABCD graph benchmark
 
 * (2020) B. Kaminski, P. Pralat and F. Théberge, Artificial Benchmark for Community Detection (ABCD): Fast Random Graph Model with Community Structure, 
 pre-print: https://arxiv.org/abs/2002.00843
@@ -82,7 +82,7 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2021) B. Kaminski, P. Pralat and F. Théberge, "Sequential and parallel generation of Artificial Benchmark for Community Detection (ABCD) graphs", to appead in the Book of Abstracts, Complex Networks Conference, 2020. Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162237
 
-## Faster implementations
+### Faster implementations
 
 * (2021) B. Kaminski, P. Pralat and F. Théberge, "Artificial Benchmark for Community Detection (ABCD) - Fast random graph model with community structure", Network Science Journal (2021), pp. 1-26, https://doi.org/10.1017/nws.2020.45
 
@@ -90,19 +90,20 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2021) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, "Artificial Benchmark for Community Detection algorithm for simulation of social networks", Social Simulation Conference 2021, https://ssc2021.uek.krakow.pl/wp-content/uploads/2021/09/SSC_book_of_abstracts.pdf
 
-## Theoretical analysis and performance studies
+### Theoretical analysis and performance studies
 
 * (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.01480
-<!--- submitted to J of Complex Networks--->
+<!--- submitted to J of Complex Networks; also a talk at CN22 --->
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, Properties and Performance of the ABCDe Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.14899
 <!--- submitted to big data reserach --->
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
 
-## Model with outiliers
+### Model with outiliers
 
-* (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers: http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
+* (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers, SIAM Workshop on Network Science (NS22): http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
+<!--- also a talk at CN22 --->
 
 ### Code:
 
@@ -132,7 +133,3 @@ A useful tool to compare binary classifiers's top scoring points.
 
 * PyPI: https://pypi.org/project/agc/
 * GitHub (including example notebook): https://github.com/ftheberge/agc
-
-
-
-
