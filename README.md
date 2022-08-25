@@ -112,7 +112,7 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2019) Bogumił Kamiński, Valérie Poulin, Paweł Prałat , Przemysław Szufel, François Théberge, "Clustering via hypergraph modularity", PLOS ONE, November 6, 2019, https://doi.org/10.1371/journal.pone.0224307. Pre-print (2018): https://arxiv.org/abs/1810.04816
 
-* (2021) Kamiński B., Prałat P., Théberge F. (2021) Community Detection Algorithm Using Hypergraph Modularity. In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications IX. COMPLEX NETWORKS 2020 2020. Studies in Computational Intelligence, vol 943. Springer, Cham. https://doi.org/10.1007/978-3-030-65347-7_13 Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162304
+* (2021) Kamiński B., Prałat P., Théberge F. "Community Detection Algorithm Using Hypergraph Modularity". In: Benito R.M., Cherifi C., Cherifi H., Moro E., Rocha L.M., Sales-Pardo M. (eds) Complex Networks & Their Applications IX. COMPLEX NETWORKS 2020 2020. Studies in Computational Intelligence, vol 943. Springer, Cham. https://doi.org/10.1007/978-3-030-65347-7_13 Link to conference: https://easychair.org/smart-program/COMPLEXNETWORKS2020/2020-12-03.html#talk:162304
 
 * (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3482
 
@@ -128,3 +128,8 @@ A useful tool to compare binary classifiers's top scoring points.
 
 * PyPI: https://pypi.org/project/agc/
 * GitHub (including example notebook): https://github.com/ftheberge/agc
+
+# Social Network Analysis
+
+* (2021) Stan Matwin, Aristides Milios, Paweł Prałat, Amilcar Soares and François Théberge, "Survey of Generative Methods for Social Media Analysis", pre-print: https://arxiv.org/abs/2112.07041
+
