@@ -92,11 +92,11 @@ pre-print: https://arxiv.org/abs/2002.00843
 * (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.01480
 <!--- submitted to J of Complex Networks; also a talk at CN22 --->
 
-* (2022) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, Properties and Performance of the ABCDe Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.14899
-<!--- submitted to big data reserach --->
+* (2022) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, Properties and Performance of the ABCDe Random Graph Model with Community Structure, Big Data Research, 100348, ISSN 2214-5796, https://doi.org/10.1016/j.bdr.2022.100348 (https://www.sciencedirect.com/science/article/pii/S2214579622000429) and pre-print: https://arxiv.org/abs/2203.14899
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
 
+* (2022) 
 ### Model with outiliers
 
 * (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers, SIAM Workshop on Network Science (NS22): http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
