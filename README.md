@@ -40,7 +40,8 @@ ECG is a consensus clustering algorithm for vertex partitioning, based on the fa
 ### Original framework
 
 * (2019) B. Kaminski, P. Pralat and F. Théberge, An unsupervised framework for comparing graph embeddings,
-Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/10.1093/comnet/cnz043, Published: 28 November 2019. Pre-print: https://arxiv.org/abs/1906.04562
+Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/10.1093/comnet/cnz043, Published: 28 November 2019. 
+* pre-print: https://arxiv.org/abs/1906.04562
 
 ### Scalable version
 
@@ -58,7 +59,7 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 ### Multi-purpose and scalable version
 
 * (2022) Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge A Multi-purposed Unsupervised Framework for Comparing Embeddings of Undirected and Directed Graphs, Network Science , First View , pp. 1 - 24, https://doi.org/10.1017/nws.2022.27. 
-* pre-print: https://arxiv.org/abs/2112.00075 and to appear in Network Science. 
+* pre-print: https://arxiv.org/abs/2112.00075
 
 ### Code:
 
