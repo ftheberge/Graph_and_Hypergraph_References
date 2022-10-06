@@ -52,11 +52,13 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 ### Study using the framework
 
-* (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, Journal of Complex Networks, Volume 10, Issue 4, August 2022, cnac030, https://doi.org/10.1093/comnet/cnac030. pre-print: https://arxiv.org/abs/2102.08275
+* (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, Journal of Complex Networks, Volume 10, Issue 4, August 2022, cnac030, https://doi.org/10.1093/comnet/cnac030. 
+* pre-print: https://arxiv.org/abs/2102.08275
 
 ### Multi-purpose and scalable version
 
-* (2022) Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge A Multi-purposed Unsupervised Framework for Comparing Embeddings of Undirected and Directed Graphs, pre-print: https://arxiv.org/abs/2112.00075 and to appear in Network Science. 
+* (2022) Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge A Multi-purposed Unsupervised Framework for Comparing Embeddings of Undirected and Directed Graphs, Network Science , First View , pp. 1 - 24, https://doi.org/10.1017/nws.2022.27. 
+* pre-print: https://arxiv.org/abs/2112.00075 and to appear in Network Science. 
 
 ### Code:
 
