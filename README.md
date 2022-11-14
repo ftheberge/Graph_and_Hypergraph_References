@@ -4,7 +4,7 @@ Published early 2022, see: https://www.torontomu.ca/mining-complex-networks/ and
 
 Slides for 3-hour short course from this book: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
 
-# Mini-course
+# Mini-courses
 
 FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790 slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
 
@@ -27,6 +27,8 @@ ECG is a consensus clustering algorithm for vertex partitioning, based on the fa
 
 # Graph-aware measure for comparing graph partitions
 
+We propose variations of commonly used measures to compare node partitions that consider the fact that the nodes are linked by edges; we also show complementarity of graph-aware and graph-agnostic measures.
+
 * (2021) V. Poulin and F. Theberge, "Comparing Graph Clusterings: Set partition measures vs. Graph-aware measures," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.43(6). https://doi.org/10.1109/TPAMI.2020.3009862 and https://ieeexplore.ieee.org/document/9142444. Pre-print (2018): https://arxiv.org/abs/1806.11494
 
 ### Code:
@@ -36,6 +38,8 @@ ECG is a consensus clustering algorithm for vertex partitioning, based on the fa
 * GitHub: https://github.com/ftheberge/graph-partition-and-measures (all measures)
 
 # Framework for comparing graph embeddings
+
+We propose a framework to compare graph embeddings (embedding of nodes) in an unsipervised way.
 
 ### Original framework
 
@@ -51,10 +55,12 @@ Journal of Complex Networks, Volume 8, Issue 5, 1 October 2020, https://doi.org/
 
 * (2021) JMM 2021 talks and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3486 and https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3674
 
-### Study using the framework
+### Studies using the framework
 
 * (2021) Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge, Evaluating Node Embeddings of Complex Networks, Journal of Complex Networks, Volume 10, Issue 4, August 2022, cnac030, https://doi.org/10.1093/comnet/cnac030. 
 * pre-print: https://arxiv.org/abs/2102.08275
+
+* (2022) UCL thesis: http://hdl.handle.net/2078.1/thesis:35567
 
 ### Multi-purpose and scalable version
 
@@ -92,18 +98,17 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 ### Theoretical analysis and performance studies
 
-* (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.01480
-<!--- submitted to J of Complex Networks; also a talk at CN22 --->
+* (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.01480 (to appear in J of Complex Networks).
+<!--- also a talk at CN22 to appear in proceedings --->
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, Properties and Performance of the ABCDe Random Graph Model with Community Structure, Big Data Research, 100348, ISSN 2214-5796, https://doi.org/10.1016/j.bdr.2022.100348 (https://www.sciencedirect.com/science/article/pii/S2214579622000429) and pre-print: https://arxiv.org/abs/2203.14899
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
 
-* (2022) 
 ### Model with outiliers
 
 * (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers, SIAM Workshop on Network Science (NS22): http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
-<!--- also a talk at CN22 --->
+<!--- also a talk at CN22 to appear in proceedings --->
 
 ### Code:
 
@@ -112,6 +117,8 @@ pre-print: https://arxiv.org/abs/2002.00843
 * Notebooks to test the speed and properties of ABCD, ABCDe and LFR: https://github.com/bartoszpankratz/ABCDe_Experiments
 
 # Hypergraph modularity and clustering
+
+We are looking at algorithms for unsupervised learning with hypergraphs; as a first step, we generalized the concept of modularity, often used in graph clustering algorithms, to hypergraphs.
 
 * (2019) Bogumił Kamiński, Valérie Poulin, Paweł Prałat , Przemysław Szufel, François Théberge, "Clustering via hypergraph modularity", PLOS ONE, November 6, 2019, https://doi.org/10.1371/journal.pone.0224307. Pre-print (2018): https://arxiv.org/abs/1810.04816
 
@@ -135,4 +142,13 @@ A useful tool to compare binary classifiers's top scoring points.
 # Social Network Analysis
 
 * (2021) Stan Matwin, Aristides Milios, Paweł Prałat, Amilcar Soares and François Théberge, "Survey of Generative Methods for Social Media Analysis", pre-print: https://arxiv.org/abs/2112.07041
+
+# TGM - Temporal Graph Motifs
+
+A tool to find actors with correlated temporal activity in various networks.
+
+### Code:
+
+* PyPI: https://pypi.org/project/tgm/
+* GitHub (including example notebook): https://github.com/ftheberge/tgm
 
