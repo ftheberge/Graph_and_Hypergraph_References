@@ -8,7 +8,7 @@ Slides for 3-hour short course from this book: https://github.com/ftheberge/Grap
 
 FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790 slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
 
-CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/ (slides available on demand)
+CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/ slides: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
 
 # Ensemble Clustering for Graphs (ECG)
 
