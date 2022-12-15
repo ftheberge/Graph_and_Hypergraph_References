@@ -151,4 +151,6 @@ A tool to find actors with correlated temporal activity in various networks.
 
 * PyPI: https://pypi.org/project/tgm/
 * GitHub (including example notebook): https://github.com/ftheberge/tgm
+* Note: https://github.com/ftheberge/tgm/blob/main/Temporal_Graph_Motifs.pdf
+
 
