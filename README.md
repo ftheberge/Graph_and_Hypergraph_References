@@ -2,13 +2,15 @@
 
 Published early 2022, see: https://www.torontomu.ca/mining-complex-networks/ and https://github.com/ftheberge/GraphMiningNotebooks
 
-Slides for 3-hour short course from this book: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
-
 # Mini-courses
 
-FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790 slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
+FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790
+slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
 
-CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/ slides: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
+CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/
+slides: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
+
+Mining Complex Networks - Practical Methods for Mining Graphs using Python-igraph: https://github.com/ftheberge/mining_graphs
 
 # Ensemble Clustering for Graphs (ECG)
 
@@ -96,10 +98,13 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2021) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, "Artificial Benchmark for Community Detection algorithm for simulation of social networks", Social Simulation Conference 2021, https://ssc2021.uek.krakow.pl/wp-content/uploads/2021/09/SSC_book_of_abstracts.pdf
 
+* (2022) B. Kaminski, T. Olczak, B. Pankratz, P. Pralat, F. Théberge, "Properties and Performance of the ABCDe Random Graph Model with Community Structure", Big Data Research Journal, https://doi.org/10.1016/j.bdr.2022.100348
+
 ### Theoretical analysis and performance studies
 
-* (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, pre-print: https://arxiv.org/abs/2203.01480 (to appear in J of Complex Networks).
-<!--- also a talk at CN22 to appear in proceedings --->
+* (2022) Bogumił Kamiński, Bartosz Pankratz, Paweł Prałat, François Théberge, Modularity of the ABCD Random Graph Model with Community Structure, Journal of Complex Networks, 2022, https://doi.org/10.1093/comnet/cnac050; pre-print: https://arxiv.org/abs/2203.01480.
+
+* (2022) Also a conference talk (with proceedings) at Complex Networks 2022: https://easychair.org/smart-program/COMPLEXNETWORKS2022/2022-11-10.html#talk:204663
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge and T. Olczak, Properties and Performance of the ABCDe Random Graph Model with Community Structure, Big Data Research, 100348, ISSN 2214-5796, https://doi.org/10.1016/j.bdr.2022.100348 (https://www.sciencedirect.com/science/article/pii/S2214579622000429) and pre-print: https://arxiv.org/abs/2203.14899
 
@@ -108,13 +113,23 @@ pre-print: https://arxiv.org/abs/2002.00843
 ### Model with outiliers
 
 * (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers, SIAM Workshop on Network Science (NS22): http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
-<!--- also a talk at CN22 to appear in proceedings --->
+
+* (2022) Also a conference talk (with proceedings) at Complex Networks 2022: https://easychair.org/smart-program/COMPLEXNETWORKS2022/2022-11-09.html#talk:204647
+
 
 ### Code:
 
 * Julia code on GitHub: https://github.com/bkamins/ABCDGraphGenerator.jl
 * Multithreaded code ABCDe: https://github.com/tolcz/ABCDeGraphGenerator.jl
 * Notebooks to test the speed and properties of ABCD, ABCDe and LFR: https://github.com/bartoszpankratz/ABCDe_Experiments
+
+# Hypergraph Benchmark (h-ABCD)
+
+* (2023) Bogumił Kamiński, Paweł Prałat, François Théberge, "Hypergraph Artificial Benchmark for Community Detection (h-ABCD)", pre-print: https://arxiv.org/abs/2210.15009
+
+### Code:
+
+* https://github.com/bkamins/ABCDHypergraphGenerator.jl
 
 # Hypergraph modularity and clustering
 
