@@ -1,20 +1,24 @@
-# Textbook - Mining Complex Networks
+# Textbook - Mining Complex Networks (2022)
+<img src="https://github.com/ftheberge/Graph_and_Hypergraph_References/assets/42616140/8ec477e4-c2a6-44f8-bd3a-1b8b0322841b" width="100">
 
-Published early 2022, see: https://www.torontomu.ca/mining-complex-networks/ and https://github.com/ftheberge/GraphMiningNotebooks
+* Authors: Bogumił Kamiński, Paweł Prałat, and François Théberge.
+* ISBN-13: 978-1032112039
+* ISBN-10: 1032112034
+* Link: https://www.torontomu.ca/mining-complex-networks/
+* Jupyter notebooks can be found here: https://github.com/ftheberge/GraphMiningNotebooks
 
 # Mini-courses
 
-FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790
-slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
-
-CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/
+* (2023) CMS 2023 mini-course: https://www.summer23.cms.math.ca/mini-courses slides: https://github.com/ftheberge/CMS2023_MiniCourse
+* (2022) Mining Complex Networks - Practical Methods for Mining Graphs using Python-igraph: https://github.com/ftheberge/mining_graphs
+* (2021) CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/
 slides: https://github.com/ftheberge/Graph_and_Hypergraph_References/blob/main/CMS_2021.pdf
-
-Mining Complex Networks - Practical Methods for Mining Graphs using Python-igraph: https://github.com/ftheberge/mining_graphs
+* (2019) FIELDS summer school, 2019: https://video-archive.fields.utoronto.ca/list/event/1790
+slides and notebooks: https://github.com/ftheberge/ComplexNetworks2019
 
 # Ensemble Clustering for Graphs (ECG)
 
-ECG is a consensus clustering algorithm for vertex partitioning, based on the famous Louvain algorithm. Several studies show that is is less affected by the resolution limit, and that it yields good, stable communities.
+ECG is a consensus clustering algorithm for vertex partitioning, based on the famous Louvain and Leiden algorithms. Several studies show that is is less affected by the resolution limit, and that it yields good, stable communities.
 
 * (2018) Valérie Poulin and François Théberge, Ensemble Clustering for Graphs. in: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. Studies in Computational Intelligence, vol 812. Springer, https://doi.org/10.1007/978-3-030-05411-3_19 or https://link.springer.com/chapter/10.1007/978-3-030-05411-3_19. Pre-print: https://arxiv.org/abs/1809.05578
 
@@ -41,7 +45,7 @@ We propose variations of commonly used measures to compare node partitions that 
 
 # Framework for comparing graph embeddings
 
-We propose a framework to compare graph embeddings (embedding of nodes) in an unsipervised way.
+We propose a framework to compare graph embeddings (embedding of nodes) in an unsupervised way.
 
 ### Original framework
 
@@ -116,7 +120,6 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2022) Also a conference talk (with proceedings) at Complex Networks 2022: https://easychair.org/smart-program/COMPLEXNETWORKS2022/2022-11-09.html#talk:204647
 
-
 ### Code:
 
 * Julia code on GitHub: https://github.com/bkamins/ABCDGraphGenerator.jl
@@ -125,7 +128,7 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 # Hypergraph Benchmark (h-ABCD)
 
-* (2023) Bogumił Kamiński, Paweł Prałat, François Théberge, "Hypergraph Artificial Benchmark for Community Detection (h-ABCD)", pre-print: https://arxiv.org/abs/2210.15009
+* (2023) Bogumił Kamiński, Paweł Prałat, François Théberge, "Hypergraph Artificial Benchmark for Community Detection (h-ABCD)", to appear in: Journal of Complex Networks 2023, pre-print: https://arxiv.org/abs/2210.15009
 
 ### Code:
 
@@ -155,17 +158,27 @@ A useful tool to compare binary classifiers's top scoring points.
 * GitHub (including example notebook): https://github.com/ftheberge/agc
 
 # Social Network Analysis
+<img src="https://github.com/ftheberge/Graph_and_Hypergraph_References/assets/42616140/ff179ebe-3b00-47d9-8eea-49f96a67b187" width="100">
 
-* (2021) Stan Matwin, Aristides Milios, Paweł Prałat, Amilcar Soares and François Théberge, "Survey of Generative Methods for Social Media Analysis", pre-print: https://arxiv.org/abs/2112.07041
+* (2023) Stan Matwin, Aristides Milios, Paweł Prałat, Amilcar Soares and François Théberge, "Generative Methods for Social Media Analysis", SpringerBriefs in Computer Science, 2023. https://link.springer.com/book/10.1007/978-3-031-33617-1 pre-print: https://arxiv.org/abs/2112.07041
 
 # TGM - Temporal Graph Motifs
 
 A tool to find actors with correlated temporal activity in various networks.
+* Note: https://github.com/ftheberge/tgm/blob/main/Temporal_Graph_Motifs.pdf
 
 ### Code:
 
 * PyPI: https://pypi.org/project/tgm/
 * GitHub (including example notebook): https://github.com/ftheberge/tgm
-* Note: https://github.com/ftheberge/tgm/blob/main/Temporal_Graph_Motifs.pdf
+
+# Conference organization
+<img src="https://github.com/ftheberge/Graph_and_Hypergraph_References/assets/42616140/a8309659-d569-444e-bc1b-a7c5d7efd0bc" width="100">
+
+* Co-organizer, WAW 2023, FIELDS(Toronto): https://math.ryerson.ca/waw2023/  proceedings: https://link.springer.com/book/10.1007/978-3-031-32296-9
+* Co-organizer, Workshop on Modelling and Mining Complex Networks as Hypergraphs, TMU (Toronto), 2023. https://math.ryerson.ca/waw2023/schedule.html
+* Co-organizer, WAW 2024: https://math.torontomu.ca/waw2024/
+  
+
 
 
