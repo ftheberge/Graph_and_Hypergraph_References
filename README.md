@@ -128,7 +128,7 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 # Hypergraph Benchmark (h-ABCD)
 
-* (2023) Bogumił Kamiński, Paweł Prałat, François Théberge, "Hypergraph Artificial Benchmark for Community Detection (h-ABCD)", to appear in: Journal of Complex Networks 2023, pre-print: https://arxiv.org/abs/2210.15009
+* (2023) Bogumił Kamiński, Paweł Prałat, François Théberge, "Hypergraph Artificial Benchmark for Community Detection (h-ABCD)", Journal of Complex Networks, Volume 11, Issue 4, August 2023, https://doi.org/10.1093/comnet/cnad028; pre-print: https://arxiv.org/abs/2210.15009
 
 ### Code:
 
