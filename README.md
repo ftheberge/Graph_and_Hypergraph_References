@@ -187,6 +187,7 @@ A tool to find actors with correlated temporal activity in various networks.
 * Co-organizer, WAW 2023, FIELDS(Toronto): https://math.ryerson.ca/waw2023/  proceedings: https://link.springer.com/book/10.1007/978-3-031-32296-9
 * Co-organizer, Workshop on Modelling and Mining Complex Networks as Hypergraphs, TMU (Toronto), 2023. https://math.ryerson.ca/waw2023/schedule.html
 
+<img src="https://github.com/user-attachments/assets/da7ec736-994c-4e16-ba06-0403405fbdd3" width="100">
 
 * Co-organizer, WAW 2024: https://math.torontomu.ca/waw2024/
 * Co-organizer, Workshop on Modelling and Mining Complex Networks as Hypergraphs, TMU (Toronto), 2024. https://www.torontomu.ca/graphs-group/hypergraphs2024
