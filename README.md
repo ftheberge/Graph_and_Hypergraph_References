@@ -7,8 +7,11 @@
 * Link: https://www.torontomu.ca/mining-complex-networks/
 * Jupyter notebooks can be found here: https://github.com/ftheberge/GraphMiningNotebooks
 
+We are currently working on a second edition of this textbook, stay tuned!
+
 # Mini-courses
 
+* (2024) WAW 2024 tutorial: Modelling and Mining Complex Networks as Hypergraphs, https://math.torontomu.ca/waw2024/schedule.html
 * (2023) CMS 2023 mini-course: https://www.summer23.cms.math.ca/mini-courses slides: https://github.com/ftheberge/CMS2023_MiniCourse
 * (2022) Mining Complex Networks - Practical Methods for Mining Graphs using Python-igraph: https://github.com/ftheberge/mining_graphs
 * (2021) CMS 2021 mini-course: https://summer21.cms.math.ca/index.php/mini-courses/
@@ -114,6 +117,8 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
 
+* (2024) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, pre-print: https://arxiv.org/abs/2312.00238 
+
 ### Model with outiliers
 
 * (2022) Bogumił Kamiński, Paweł Prałat, François Théberge, and Sebastian Zając, A Definition of Graph Modularity with Outliers, SIAM Workshop on Network Science (NS22): http://dyn.phys.northwestern.edu/ns22_abstracts/NS22_paper_9793.pdf
@@ -122,6 +127,7 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 ### Code:
 
+* Python code: https://pypi.org/project/abcd-graph/
 * Julia code on GitHub: https://github.com/bkamins/ABCDGraphGenerator.jl
 * Multithreaded code ABCDe: https://github.com/tolcz/ABCDeGraphGenerator.jl
 * Notebooks to test the speed and properties of ABCD, ABCDe and LFR: https://github.com/bartoszpankratz/ABCDe_Experiments
@@ -144,8 +150,11 @@ We are looking at algorithms for unsupervised learning with hypergraphs; as a fi
 
 * (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3482
 
+* (2024)  Kamiński B., Misiorek P., Prałat P., Théberge F., Modularity Based Community Detection in Hypergraphs, pre-print: https://arxiv.org/abs/2406.17556 (to appear in J. of Complex Networks)
+
 ### Code:
 
+* GitHub repo: https://github.com/pawelwm/h-louvain
 * H-modularity https://pnnl.github.io/HyperNetX/build/modularity.html is now part of HyperNetX: https://github.com/pnnl/HyperNetX
 
 # AGC - Area under Gain Curves
@@ -177,6 +186,8 @@ A tool to find actors with correlated temporal activity in various networks.
 
 * Co-organizer, WAW 2023, FIELDS(Toronto): https://math.ryerson.ca/waw2023/  proceedings: https://link.springer.com/book/10.1007/978-3-031-32296-9
 * Co-organizer, Workshop on Modelling and Mining Complex Networks as Hypergraphs, TMU (Toronto), 2023. https://math.ryerson.ca/waw2023/schedule.html
+
+
 * Co-organizer, WAW 2024: https://math.torontomu.ca/waw2024/
 * Co-organizer, Workshop on Modelling and Mining Complex Networks as Hypergraphs, TMU (Toronto), 2024. https://www.torontomu.ca/graphs-group/hypergraphs2024
   
