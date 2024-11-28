@@ -117,7 +117,9 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2022) B. Kaminski, P. Pralat, F. Théberge, Asymptotic Properties of the ABCD Graph Benchmark with Community Structure, NetSci22 talk: https://easychair.org/smart-program/NetSci2022/2022-07-25.html#talk:196041 and slides: https://github.com/ftheberge/Slides/NetSci_Slides_2022.pdf
 
-* (2024) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, pre-print: https://arxiv.org/abs/2312.00238 
+* (2024) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, WAW 2024 conference proceedings: https://link.springer.com/chapter/10.1007/978-3-031-59205-8_2
+
+* (2024) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, to appear in Theoretical Computer Science; pre-print: https://arxiv.org/abs/2312.00238 
 
 ### Model with outiliers
 
@@ -150,12 +152,38 @@ We are looking at algorithms for unsupervised learning with hypergraphs; as a fi
 
 * (2021) JMM 2021 talk and slides: https://meetings.ams.org/math/jmm2021/meetingapp.cgi/Paper/3482
 
-* (2024)  Kamiński B., Misiorek P., Prałat P., Théberge F., Modularity Based Community Detection in Hypergraphs, pre-print: https://arxiv.org/abs/2406.17556 (to appear in J. of Complex Networks)
+* (2023) WAW 2023 conference: https://link.springer.com/chapter/10.1007/978-3-031-32296-9_4
+
+* (2024)  Kamiński B., Misiorek P., Prałat P., Théberge F., Modularity Based Community Detection in Hypergraphs, Journal of Complex Networks, Volume 12, Issue 5, October 2024, cnae041: https://doi.org/10.1093/comnet/cnae041
+  
+* (2024) pre-print for the above: https://arxiv.org/abs/2406.17556
 
 ### Code:
 
 * GitHub repo: https://github.com/pawelwm/h-louvain
 * H-modularity https://pnnl.github.io/HyperNetX/build/modularity.html is now part of HyperNetX: https://github.com/pnnl/HyperNetX
+
+# NEExT
+
+A framework to compare embedding of graphs and do feature engineering.
+
+* (2024) Dehghan, A.,  Prałat P., Théberge F, Network Embedding Exploration Tool (NEExT)}, WAW 2024 proceedings, https://doi.org/10.1007/978-3-031-59205-8_5}
+
+### Code:
+
+* GitHub repository: https://github.com/elmspace/NEExT
+* PyPI: https://pypi.org/project/NEExT/
+
+# Simpliciality
+
+We propose new measures of simpliciality for hypergraphs.
+
+* Jordan Barrett, Paweł Prałat, Aaron Smith, François Théberge, Counting simplicial pairs in hypergraphs, pre-print: https://arxiv.org/abs/2408.11806
+* 
+
+### Code: 
+
+* GitHub repo: https://github.com/ftheberge/Simplicial_Ratio
 
 # AGC - Area under Gain Curves
 
