@@ -119,7 +119,7 @@ pre-print: https://arxiv.org/abs/2002.00843
 
 * (2024) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, WAW 2024 conference proceedings: https://link.springer.com/chapter/10.1007/978-3-031-59205-8_2
 
-* (2024) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, to appear in Theoretical Computer Science; pre-print: https://arxiv.org/abs/2312.00238 
+* (2025) J. Barrett, B. Kaminski, P. Pralat, F. Théberge, Self-similarity of Communities of the ABCD Model, Theoretical Computer Science, Volume 1026, Feb. 2025, #115012. pre-print: https://arxiv.org/abs/2312.00238 
 
 ### Model with outiliers
 
@@ -178,12 +178,20 @@ A framework to compare embedding of graphs and do feature engineering.
 
 We propose new measures of simpliciality for hypergraphs.
 
-* Jordan Barrett, Paweł Prałat, Aaron Smith, François Théberge, Counting simplicial pairs in hypergraphs, pre-print: https://arxiv.org/abs/2408.11806
+* (2024) Jordan Barrett, Paweł Prałat, Aaron Smith, François Théberge, Counting simplicial pairs in hypergraphs, Complex Networks 2024 (Istambul). pre-print: https://arxiv.org/abs/2408.11806
 * 
 
 ### Code: 
 
 * GitHub repo: https://github.com/ftheberge/Simplicial_Ratio
+
+# CAS - Community Association Strength scores
+
+* (2024) Kamiński, B., Prałat, P., Théberge, F. et al. Predicting properties of nodes via community-aware features. Soc. Netw. Anal. Min. 14, 117. https://doi.org/10.1007/s13278-024-01281-2
+
+### Code:
+
+* GitHub repo (code and experiments): https://github.com/ftheberge/CommunityAssociationStrength
 
 # AGC - Area under Gain Curves
 
